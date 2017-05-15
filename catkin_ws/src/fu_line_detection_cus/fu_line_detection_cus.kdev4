@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCMakeManager
+Name=fu_line_detection_cus
